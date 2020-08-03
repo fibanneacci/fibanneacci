@@ -6,6 +6,8 @@
 
 👩🏻‍💻 More about me: [Personal Website](fibanneacci.github.io), [LinkedIn](linkedin.com/fibanneacci)
 
+🐱 Here's a cute cat gif: <img src="https://github.com/fibanneacci/fibanneacci/blob/master/cute-cat-gifs-4.gif" width="100" height="100" />
+
 
 <!--
 **fibanneacci/fibanneacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
