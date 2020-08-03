@@ -6,9 +6,9 @@
 
 👩🏻‍💻 More about me: [Personal Website](fibanneacci.github.io), [LinkedIn](linkedin.com/fibanneacci)
 
-🐱 Here's a cute penguin gif:
+🐧 Here's a cute penguin gif:
 
-<img src="https://github.com/fibanneacci/fibanneacci/blob/master/giphy.gif" width="250" height="200" />
+<img src="https://github.com/fibanneacci/fibanneacci/blob/master/giphy.gif" width="250" height="150" />
 
 
 <!--
