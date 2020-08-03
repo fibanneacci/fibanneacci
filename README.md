@@ -8,7 +8,7 @@
 
 🐧 Here's a cute penguin gif:
 
-<img src="https://github.com/fibanneacci/fibanneacci/blob/master/giphy.gif" width="225" height="150" />
+<img src="https://github.com/fibanneacci/fibanneacci/blob/master/giphy.gif" width="235" height="150" />
 
 
 <!--
