@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Anne! I want to design tech that creates positive social impact.
 
-😄 Check out my latest project: [COVID-19 in Prisons, as Told by Data](covid-prisons.herokuapp.com)
+💖 Check out my latest project: [COVID-19 in Prisons, as Told by Data](covid-prisons.herokuapp.com)
 
 🦕 Check out my non-latest projects: [Tech Portfolio](http://airtable.com/shrjpRlu09GBg6ivf)
 
