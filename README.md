@@ -1,10 +1,10 @@
 ### 👋 Hi, I’m Anne! I want to design tech that creates positive social impact.
 
-💖 Check out my latest project: [COVID-19 in Prisons, as Told by Data](https://covid-prisons.herokuapp.com){target="_blank"}
+💖 Check out my latest project: <a href="https://covid-prisons.herokuapp.com" target="_blank">COVID-19 in Prisons, as Told by Data</a>
 
-🦕 Check out my non-latest projects: [Tech Portfolio](http://airtable.com/shrjpRlu09GBg6ivf){target="_blank"}
+🦕 Check out my non-latest projects: <a href="http://airtable.com/shrjpRlu09GBg6ivf" target="_blank">Tech Portfolio</a>
 
-👩🏻‍💻 More about me: [Personal Website](https://fibanneacci.github.io){target="_blank"}, [LinkedIn](https://linkedin.com/fibanneacci){target="_blank"}
+👩🏻‍💻 More about me: <a href="https://fibanneacci.github.io" target="_blank">Personal Website</a>, <a href="https://linkedin.com/fibanneacci" target="_blank">LinkedIn</a>
 
 🐧 Here's a cute penguin gif:
 
