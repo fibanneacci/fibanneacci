@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Anne! I want to design tech that creates positive social impact.
+### 👋 Hi, I’m Anne! I'm exploring stories and societies through a digital lens.
 
 💖 Check out my latest project: <a href="https://covid-prisons.herokuapp.com" target="_blank">COVID-19 in Prisons, as Told by Data</a>
 
