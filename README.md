@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Anne! I explore stories and societies through a digital lens.
+### 👋 Hi, I’m Anne! I explore stories and society through data, words, and code.
 
 💖 Check out my latest project: <a href="https://covid-prisons.herokuapp.com" target="_blank">COVID-19 in Prisons, as Told by Data</a>
 
