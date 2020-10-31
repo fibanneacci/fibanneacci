@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Anne! I explore stories and society through data, words, and code.
+### 👋 Hi, I’m Anne! I explore stories through data, words, and code.
 
 🛠️ Currently working on: <a href="https://fibanneacci.github.io/college/" target="_blank">unsure what to call this yet?</a>
 
