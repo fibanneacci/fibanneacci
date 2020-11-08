@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Anne! I explore stories through data, words, and code.
+<!--### 👋 Hi, I’m Anne! I explore stories through data, words, and code.
 
 🛠️ Currently working on: <a href="https://fibanneacci.github.io/college/" target="_blank">unsure what to call this yet?</a>
 
@@ -13,7 +13,7 @@
 <img src="https://github.com/fibanneacci/fibanneacci/blob/master/giphy.gif" width="250" height="150" />
 
 
-<!--
+
 **fibanneacci/fibanneacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
