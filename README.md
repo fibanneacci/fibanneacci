@@ -1,5 +1,3 @@
-### 👋 Hi, I’m Anne!
-
 🛠️ Working on: <a href="https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/" target="_blank" rel="noreferrer">digital gardening</a>
 
 🌱 Recent project(s): <a href="https://fibanneacci.github.io/multimedia-playlist/" target="_blank" rel="noreferrer">a multimedia playlist</a>
@@ -10,7 +8,7 @@
 <!--**fibanneacci/fibanneacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### 👋 Hi, I’m Anne!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
