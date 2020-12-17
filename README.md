@@ -4,7 +4,7 @@
 
 🌱 Recent project(s): <a href="https://fibanneacci.github.io/multimedia-playlist/" target="_blank" rel="noreferrer">a multimedia playlist</a>
 
-<img src="https://github.com/fibanneacci/fibanneacci/blob/master/giphy.gif" width="250" height="150" />
+<img src="https://github.com/fibanneacci/fibanneacci/blob/main/giphy.gif" width="250" height="150" />
 
 
 <!--**fibanneacci/fibanneacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
