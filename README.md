@@ -1,7 +1,7 @@
 🌱 Working on: <a href="https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/" target="_blank" rel="noreferrer">digital gardening</a>
 
 
-🌻 Recent project(s): <a href="https://github.com/fibanneacci/ironic-newsfeed/" target="_blank" rel="noreferrer">ironic newsfeed</a>, <a href="https://fibanneacci.github.io/multimedia-playlist" target="_blank" rel="noreferrer">multimedia playlist</a>
+🌻 Recent project(s): <a href="https://github.com/fibanneacci/ironic-newsfeed/" target="_blank" rel="noreferrer">ironic newsfeed</a>
 
 <!--**fibanneacci/fibanneacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
