@@ -1,9 +1,9 @@
-<!--🌱 Working on: <a href="https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/" target="_blank" rel="noreferrer">digital gardening</a>
+🌱 Working on: <a href="https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/" target="_blank" rel="noreferrer">digital gardening</a>
 
 
 🌻 Recent project(s): <a href="https://github.com/fibanneacci/ironic-newsfeed/" target="_blank" rel="noreferrer">ironic newsfeed</a>
 
-**fibanneacci/fibanneacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**fibanneacci/fibanneacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 ### 👋 Hi, I’m Anne!
